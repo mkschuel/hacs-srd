@@ -1,8 +1,8 @@
 {
-  "domain": "bminc",
-  "name": "srd",
-  "documentation": "https://gitlab.com/bminc/hass-cc-srd",
+  "domain": "srd",
+  "name": "Stadtreinigung Drresden",
+  "documentation": "https://github.com/mkschuel/hacs-srd",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@bminc"]
+  "codeowners": ["@mkschuel"]
 }
