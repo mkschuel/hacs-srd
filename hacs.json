@@ -1,0 +1,6 @@
+{
+  "name": "srd",
+  "domains": ["sensor"],
+  "render_readme": true,
+  "country": "DE"
+}

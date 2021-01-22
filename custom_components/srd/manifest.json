@@ -1,0 +1,8 @@
+{
+  "domain": "bminc",
+  "name": "srd",
+  "documentation": "https://gitlab.com/bminc/hass-cc-srd",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@bminc"]
+}
